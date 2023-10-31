@@ -25,9 +25,7 @@ badges:
     username: "Domin#2874"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
-  "Fullstack Web Developer": "#006f72"
-  "UI/UX Designer": "#9b2335"
-  "FOSS Contributor": "#ffecc1"
+  "Troll": "#EEEF0"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
@@ -52,8 +50,4 @@ connections:
 
 <!-- Your About Me section -->
 
-Hi, I'm an independent web developer based in Kazan, Russia.
-
-I mostly work with [frontend web development](https://domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
-
-I'm interested in gaming, studying and experimenting with web design.
+Hi, I'm a meme content creator, Youtuber, Twitch Streamer, and a internet troll.
